@@ -4,6 +4,8 @@ This repository contains a Python implementation of an extended epidemiological 
 
 ## Project Overview
 
+Completed as part of the First Semester coursework for Mathematics for intelligent system 1
+
 The simulation models the flow of a population through four distinct states:
 1.  **Susceptible (S):** Individuals who can catch the disease.
 2.  **Infected (I):** Individuals currently infected.
